@@ -6,13 +6,13 @@ html, body {
   }
   
   #wrapper {
-    min-height: 100%
+    min-height: 100%;
     position: relative;
   }
   
   /* Central content */
   
-  #content {
+  .container {
     padding-top: 170px;
     padding-bottom: 40px;
     width: 584px;
