@@ -1,0 +1,27 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "node app using express and bootsrap",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node -- Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PascalUlor/cp-readiness.git"
+  },
+  "author": "Pascal Ulor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PascalUlor/cp-readiness/issues"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.2.2",
+    "babel-preset-es2015": "^6.24.1",
+    "express": "latest"
+  },
+  "homepage": "https://github.com/PascalUlor/cp-readiness#readme"
+}
